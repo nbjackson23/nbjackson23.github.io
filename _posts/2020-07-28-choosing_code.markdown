@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Choosing Code"
-date:       2020-07-28 11:20:34 +0000
+date:       2020-07-28 07:20:35 -0400
 permalink:  choosing_code
 ---
 
